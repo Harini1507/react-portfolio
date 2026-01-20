@@ -34,8 +34,10 @@ A responsive and animated personal portfolio website built using **React.js**, *
 ### Mobile View
 ![Mobile View](screenshots/mobile.png)
 
-### Animations
-![Animations](screenshots/animation.png)
+## Animations
+
+![Animations](./screenshots/animations.png)
+
 
 ## 🔗 Live Demo
 (Optional) Add Netlify/Vercel link here
