@@ -39,8 +39,6 @@ A responsive and animated personal portfolio website built using **React.js**, *
 ![Animations](./screenshots/animations.png)
 
 
-## 🔗 Live Demo
-(Optional) Add Netlify/Vercel link here
 
 ## 📁 GitHub Repository
 https://github.com/Harini1507/react-portfolio
